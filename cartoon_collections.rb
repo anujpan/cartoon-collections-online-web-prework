@@ -5,7 +5,7 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(array)
-    name.split.map(&:capitalize).join('')
+  name.split.map(&:capitalize).join('')
 
   puts array
 end
