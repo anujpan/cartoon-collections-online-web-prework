@@ -21,6 +21,7 @@ def find_the_cheese(array)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   
+  array.find
   if array.include? cheese_types
     puts "true"
   else
