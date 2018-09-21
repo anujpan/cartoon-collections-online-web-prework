@@ -23,7 +23,7 @@ def find_the_cheese(array)
   
   cheese_types.each do |cheese|
     if array.include?(cheese)
-      cheese    
+      cheese
     end
   end
 end
