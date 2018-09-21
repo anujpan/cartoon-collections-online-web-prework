@@ -7,7 +7,6 @@ end
 def summon_captain_planet(array)
   array.collect do |name|
     name.split(/ /)
-    
   end
   
   puts array
