@@ -27,4 +27,4 @@ def find_the_cheese(array)
 end
 
 
-summon_captain_planet(["Doc", "Dopey", "Bashful", "Grumpy"])
+find_the_cheese(["Doc", "Dopey", "Bashful", "Grumpy"])
