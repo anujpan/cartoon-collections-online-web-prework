@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
   array.collect do |name|
-    name.split(/ /)
+    name.split.map(&:capitalize).join(' ')
   end
   
   puts array
