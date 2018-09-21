@@ -29,4 +29,4 @@ def find_the_cheese(array)
 end
 
 
-find_the_cheese(["Doc", "Dopey", "Bashful", "Grumpy"])
+find_the_cheese(["Doc", "Dopey", "Bashful", "Grumpy","cheddar"])
