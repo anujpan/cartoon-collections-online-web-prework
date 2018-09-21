@@ -18,4 +18,4 @@ def find_the_cheese# code an argument here
 end
 
 
-roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
+summon_captain_planet(["Doc", "Dopey", "Bashful", "Grumpy"])
